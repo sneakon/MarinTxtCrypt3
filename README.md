@@ -22,6 +22,9 @@
 
 * Windows
 
+
+#### ДЕМО-ВИДЕО ЕСТЬ В МОЁМ ТГ-КАНАЛЕ: t.me/kensecproj
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **ENG**
@@ -47,3 +50,6 @@ A program for encrypting and decrypting text using the XOR algorithm and Base64 
 #### Requirements:
 
 * Windows
+
+
+#### THERE IS A DEMO VIDEO IN MY TG-CHANNEL: t.me/kensecproj
