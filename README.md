@@ -2,7 +2,7 @@
 
 ### MarinTxtCrypt3
 
-![Скриншот](scr1.png) ![Скриншот](scr1.png)
+![Скриншот](scr1.png) ![Скриншот](scr2.png)
 
 Программа для шифрования и дешифрования текста с использованием XOR-алгоритма и Base64-кодирования. Интерфейс построен на основе Windows API. Приложение позволяет шифровать текст с использованием пользовательского ключа и копировать/вставлять зашифрованный или расшифрованный текст через буфер обмена.
 
@@ -33,7 +33,7 @@
 
 ### MarinTxtCrypt3
 
-![Screenshot](scr1.png) ![Screenshot](scr1.png)
+![Screenshot](scr1.png) ![Screenshot](scr2.png)
 
 A program for encrypting and decrypting text using the XOR algorithm and Base64 encoding. The interface is based on the Windows API. The application allows you to encrypt text using a user key and copy/paste encrypted or decrypted text via the clipboard.
 
